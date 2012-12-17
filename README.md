@@ -3,7 +3,7 @@ tumblr image grid is an example combination of tumblr api (tag search) and Freet
 Features
 ========
 
-- Images can be searched from tumblr via tags.
+- Images will get picked from tumblr via tumblr api tag search.
 
 - Result images will have a dynamic and responsive grid layout. (Powered by Freetile.js)
 
