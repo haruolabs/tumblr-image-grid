@@ -1,5 +1,3 @@
-tumblr image grid
-=======
 tumblr image grid is an example combination of tumblr api (tag search) and Freetile.js (https://github.com/yconst/Freetile).
 
 Features
