@@ -1,0 +1,79 @@
+/*	Resets
+	------	*/
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, 
+p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, 
+img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr, 
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figure, figcaption, hgroup, 
+menu, footer, header, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	background: #e9eaeb;
+	font: 12px/16px Helvetica, Arial, sans-serif;
+        color: #585a5a;
+}
+
+h4 {
+	clear: both;
+	width: 100%;
+}
+
+a {
+        color: #585a5a;
+        text-decoration: none;
+        font-weight: bold;
+}
+
+a:hover {
+        background-color: #585a5a;
+        color: #e9eaeb;
+}
+
+#freetile {
+        margin: 10px;
+	/*margin: 50px auto;*/
+	/*max-width: 962px;*/
+}
+
+.bar {
+        margin: 10px;
+}
+
+form {
+        display: inline-block;
+}
+
+input {
+        border: 1px solid #585a5a;
+        background-color: #e9eaeb;
+        font-weight: bold;
+        color: #585A5A;
+        padding: 3px;
+}
+
+button {
+        background-color: #e9eaeb;
+        font-weight: bold;
+        color: #585A5A;
+}
+
+.pic {
+        margin-right: 5px;
+        margin-bottom: 5px;
+}
+
+.block {
+        width: 200px;
+        height: 200px;
+        /*background-color: #585a5a;*/
+        font-weight: bold;
+        font-size: 3em;
+        color: #999;
+        line-height: 0.8em;
+}
